@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 
 <html lang="en">
@@ -54,5 +52,15 @@
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7zpjmXIcPvffRSMwP24Ukn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 </body>
+<style>
+body{
+    background-color: rgb(33, 34, 34);
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+h3{
+    font-size: 26px;
+    color: white;
+}
+</style>
 </html>
