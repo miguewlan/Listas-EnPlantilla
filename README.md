@@ -1,2 +1,58 @@
-# Listas-EnPlantilla
-Aquí se encuentran varias de mis playlist, en una plantilla de html.
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Playlist</title>
+    <link rel="stylesheet" href="css /styles.css" type="text/css">
+</head>
+<body>
+    <center><h3>Radio Garden</h3></center>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7cAULOA0xhA0DYF7Z6zO9w?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <br>
+    <center><h3>Novedades Música Latina</h3></center>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3R1fBLeZ6AtpQ14OHIZ6YD?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+    <center><h3>80's - 90's</h3></center>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5iV2BpJq8FTNkBeuQs0NrR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+    <center><h3>Workout</h3></center>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/69opXnaYhJTK3vMDTPOD1Q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+    <center><h3>Dembow</h3></center>
+
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4XQnBa6nI7FhqTChpmvg8N?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <center><h3>Best Hits </h3></center>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5ZgnognFxyULtmgodXWIHN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+    <center><h3>Hip Hop</h3></center>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5RuAvuPidn5gcLjXFW7Fwv?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<center><h3>Tik tok</h3></center>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/75TkDSsEegBNzCe6caqL0j?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<center><h3>Reggaeton 2023</h3></center>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2WSQ2CQK0EYxM7NCV8iC8s?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<center><h3>SALSA </h3></center>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5cLmNtuc1ostbJEykkgp99?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<center><h3>LATINA</h3></center>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7y8GqnRYnARSSEFKcfRoJ0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7p0QYPhx2O0S5DtG67svSJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5Ml0pNhM7cDmtQB5XJlKJk?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6bozdeyIkkxplXhFVl1Aur?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<center><h3>TANGO</h3></center>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0qbQxJr2bVpLFZmFxgNEFS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<center><h3>Drink alcohol</h3></center>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7zpjmXIcPvffRSMwP24Ukn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+</body>
+
+</html>
